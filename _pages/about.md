@@ -13,7 +13,7 @@ I have been an assistant professor of the [School of Cyber Science and Engineer
 
 ## Research Interests
 
-My research interest is to apply cryptographic technologies to protect information security, and main research areas are listed as follows:
+My research interest is to apply cryptographic technologies to protect information security, including:
  - **Data and Identify Privacy**: Build cryptographic systems for various secure goals, such as traditional confidentiality and integrity, encrypted data processing, anonymous authentication, etc.
  - **Post-Quantum Cryptography**: Mainly use elliptic curve isogeny or group action to design PQC schemes, such as identity-based signatures, public-key encryption, ring signatures, etc.
  - **Software/Hardware Implementation**: Code on different platforms to improve cryptographic scheme efficiency, such as SIMD acceleration, GPU acceleration, FPGA acceleration, etc.
