@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Cong Peng - WHU"
 title_separator          : "-"
 name                     : &name "Cong Peng"
 description              : &description "Associate Professor at Wuhan University"
@@ -22,13 +22,13 @@ repository               : "cpeng-crypto/cpeng-crypto.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Cong Peng (彭聪)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Associate Professor at Wuhan University"
+  location         : "Wuhan, China"
   employer         : "Wuhan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cpeng@whu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
