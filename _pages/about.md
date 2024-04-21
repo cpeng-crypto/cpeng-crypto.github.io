@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+# Cong Peng (彭聪)
 
 I have been an assistant professor of the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/) at the [Wuhan University (WHU)](https://en.whu.edu.cn/) since Aug 2021. I graduated with a Ph.D. degree in the [School of Mathematics and Statistics](https://maths.whu.edu.cn/) at Wuhan University, under the supervision of Prof. Jianhua Chen and Debiao He. I obtained my B.S. and M.S. from Wuhan University in 2010 and 2013, respectively.
 
