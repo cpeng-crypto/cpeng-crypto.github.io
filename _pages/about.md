@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a tenure-track associate professor at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University (WHU)](https://en.whu.edu.cn/), China. My main research area is to design and apply cryptographic technologies to protect information security. I obtained my Ph.D. degree in Applied Mathematics at the [School of Mathematics and Statistics](https://maths.whu.edu.cn/), Wuhan University, under the supervision of Prof. Jianhua Chen and Prof. Debiao He. I obtained my B.S. and M.S. from Wuhan University in 2010 and 2013, respectively.
+I am currently a tenure-track associate professor at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), [Wuhan University (WHU)](https://en.whu.edu.cn/), China. My main research area is to design and apply cryptographic technologies to protect information security. I obtained my Ph.D. degree in Applied Mathematics at the [School of Mathematics and Statistics](https://maths.whu.edu.cn/), Wuhan University (supervised by Prof. Jianhua Chen and Prof. Debiao He). I obtained my B.S. and M.S. from Wuhan University in 2010 and 2013, respectively.
 
 ## Contact Info
 
