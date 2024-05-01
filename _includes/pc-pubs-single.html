@@ -1,0 +1,31 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% assign authorlist = "" %}
+{% for author in post.author %}
+  {% assign authorlist = authorlist | author %}
+{% endfor %}
+
+<h2 class="pc-paper-title">
+    <b>{{ title }}</b>
+</h2>
+<span>
+    {{ authorlist }}
+</span>
+<br>
+<i>
+International Conference on Practice and Theory in Public Key Cryptography, **PKC 2024**
+</i>
+<b class="pc-icon-box-b" style="float:right">CCF B</b>
+<br>

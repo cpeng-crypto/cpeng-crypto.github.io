@@ -569,3 +569,49 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.pc-paper-title {
+  font-size: 1em;
+  color:rgb(074,123,183);
+}
+
+.pc-icon-box-a,
+.pc-icon-box-b,
+.pc-icon-box-c,
+.pc-icon-box-d {
+  font-size: 0.8em;
+  padding: 0.5px; /* 设置文字与边框之间的填充 */
+  border-radius: 5px; /* 设置边角的圆滑程度 */
+  color: #fff; /* 设置文字的颜色 */
+  box-sizing: border-box; /* 确保padding不会导致盒子尺寸增加 */
+}
+
+.pc-icon-box-a {
+  border: 1px solid rgb(168,003,038); /* 设置边框的粗细和颜色 */
+  background-color: rgb(168,003,038); /* 设置盒子的背景颜色 */
+}
+
+.pc-icon-box-b {
+  border: 1px solid rgb(230,111,081); /* 设置边框的粗细和颜色 */
+  background-color: rgb(230,111,081); /* 设置盒子的背景颜色 */
+}
+
+.pc-icon-box-c {
+  border: 1px solid rgb(243,162,097); /* 设置边框的粗细和颜色 */
+  background-color: rgb(243,162,097); /* 设置盒子的背景颜色 */
+}
+
+.pc-icon-box-d {
+  border: 1px solid rgb(138,176,125); /* 设置边框的粗细和颜色 */
+  background-color: rgb(138,176,125); /* 设置盒子的背景颜色 */
+}
+
+.pc-award-box {
+  font-size: 0.8em;
+  padding: 0.5px; /* 设置文字与边框之间的填充 */
+  border-radius: 5px; /* 设置边角的圆滑程度 */
+  color: #fff; /* 设置文字的颜色 */
+  box-sizing: border-box; /* 确保padding不会导致盒子尺寸增加 */
+  border: 1px solid rgb(099,031,102); /* 设置边框的粗细和颜色 */
+  background-color: rgb(099,031,102); /* 设置盒子的背景颜色 */
+}

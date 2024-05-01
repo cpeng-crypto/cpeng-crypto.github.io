@@ -18,7 +18,7 @@ author_profile: true
 
 - **ProvSec** [**2023**](https://provsec2023.github.io/ProvSec2023/#) - International Conference on Provable and Practical Security
 
-### Journal Reviewers
+### Journal Reviewer
 
 - IEEE Transactions on Computers ([**IEEE TC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12))
 - IEEE Transactions on Dependable and Secure Computing ([**IEEE TDSC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))
