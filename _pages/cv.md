@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+
+---
+## Working Experience
+
+- 2021.08 - Present: Associate Professor, [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), Wuhan University
+
+---
+## Education
+
+- 2018.09 - 2021.08: [School of Mathematics and Statistics](https://maths.whu.edu.cn/), Wuhan University, Ph.D. in Applied Mathematics (Advisor Jianhua Chen and Debiao He)
+- 2006.09 - 2013.06: [School of Mathematics and Statistics](https://maths.whu.edu.cn/), Wuhan University, B.S. and M.s. in Applied Mathematics (Advisor Jianhua Chen)
+
+
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -61,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

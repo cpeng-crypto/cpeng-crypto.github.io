@@ -28,7 +28,7 @@ import re
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
-        "venuekey": "booktitle",
+        "venuekey": "proceeding",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
@@ -55,8 +55,10 @@ def html_escape(text):
 
 
 for pubsource in publist:
+    bibfile = publist[pubsource]["file"]
     parser = bibtex.Parser()
-    bibdata = parser.parse_file(publist[pubsource]["file"])
+    bibdata = parser.parse_file(bibfile)
+    print("SUCESSFULLY OPENED bibtex file:" + bibfile)
 
     #loop through the individual references in a given bibtex file
     for bib_id in bibdata.entries:
@@ -69,6 +71,7 @@ for pubsource in publist:
         
         try:
             pub_year = f'{b["year"]}'
+            pub_date = pub_year
 
             #todo: this hack for month and day needs some cleanup
             if "month" in b.keys(): 
@@ -80,11 +83,10 @@ for pubsource in publist:
                     pub_month = "{:02d}".format(tmnth) 
                 else:
                     pub_month = str(b["month"])
+                pub_date += "-"+pub_month
             if "day" in b.keys(): 
                 pub_day = str(b["day"])
-
-                
-            pub_date = pub_year+"-"+pub_month+"-"+pub_day
+                pub_date += "-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
             clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
