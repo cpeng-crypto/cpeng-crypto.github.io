@@ -44,6 +44,18 @@ author_profile: true
   <b class="pc-award-box">Best Student Paper</b>
   <b class="pc-icon-box-c" style="float:right">CACR C</b>
   <br>
+
+1. <b class="pc-paper-title">
+  Power Grid Encrypted Data Range Filtering Scheme Based on Order-revealing Encryption
+  </b><br>
+  <span>
+  Hongyi Qiao, **Cong Peng\***, Min Luo, Po Wu, Debiao He
+  </span>
+  <br>
+  _IEEE International Symposium on Parallel and Distributed Processing with Applications, **ISPA 2024**_
+  <b class="pc-icon-box-c" style="float:right">CCF C</b>
+  <br>
+
 1. <b class="pc-paper-title">
   Block Ciphers Classification Based on Randomness Test Statistic Value via LightGBM
   </b><br>
@@ -94,6 +106,8 @@ author_profile: true
   _International Conference on Applied Cryptography and Network Security Workshops, **ACNS 2021**_
   <b class="pc-icon-box-c" style="float:right">CCF C</b>
   <br>
+
+
 
 ## e-Print Archives
 
@@ -262,6 +276,17 @@ author_profile: true
   <br>
   _IEEE Transactions on Vehicular Technology_, 2022, 71(7): 7863 - 7875.
   <b class="pc-icon-box-b" style="float:right">SCI 2区</b>
+  <br>
+
+1. <b class="pc-paper-title">
+  A Secure and Effective Hierarchical Identity-based Signature Scheme for ADS-B Systems
+  </b><br>
+  <span>
+  Xin Chen, Debiao He\*, **Cong Peng**, Min Luo\*, Xinyi Huang
+  </span>
+  <br>
+  _IEEE Transactions on Aerospace and Electronic Systems (**TAES**)_, early access.
+  <b class="pc-icon-box-a" style="float:right">SCI 2区</b>
   <br>
 
 1. <b class="pc-paper-title">
