@@ -5,8 +5,7 @@ permalink: /activites/
 author_profile: true
 ---
 
-## Service
-
+## Academiac Service
 
 ### Technical Program Committee
 
@@ -20,8 +19,8 @@ author_profile: true
 
 ### Journal Reviewer
 
-- IEEE Transactions on Computers ([**IEEE TC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12))
 - IEEE Transactions on Dependable and Secure Computing ([**IEEE TDSC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858))
+- IEEE Transactions on Computers ([**IEEE TC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12))
 - IEEE Transactions on Cloud Computing ([**IEEE TCC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519))
 - IEEE Internet of Things Journal ([**IEEE IoT J**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907))
 

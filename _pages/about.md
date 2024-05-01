@@ -35,12 +35,3 @@ I am currently a tenure-track associate professor at the [School of Cyber Scienc
 
  - Email: cpeng@whu.edu.cn
  - Address: Room B511, Xinjia Building, Dongxihu District, Wuhan, China
-
-
-# Awards
-
-### Paper Awards
-
- - CSS 2022 Best Paper
- - EISA 2022 Best Paper
- - ProvSec 2023 Best Student Paper
