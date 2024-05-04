@@ -164,7 +164,7 @@ author_profile: true
   </span>
   <br>
   _IEEE Transactions on Computers (**TC**)_, 2023, 72(12): 3489 - 3502.
-  <b class="pc-icon-box-a" style="float:right">SCI 1区</b>
+  <b class="pc-icon-box-b" style="float:right">SCI 2区</b>
   <b class="pc-icon-box-a" style="float:right">CCF A</b>
   <br>
 
@@ -274,7 +274,7 @@ author_profile: true
   Xiaotong Zhou, Min Luo, Pandi Vijayakumar, **Cong Peng**, Debiao He
   </span>
   <br>
-  _IEEE Transactions on Vehicular Technology_, 2022, 71(7): 7863 - 7875.
+  _IEEE Transactions on Vehicular Technology (TVT)_, 2022, 71(7): 7863 - 7875.
   <b class="pc-icon-box-b" style="float:right">SCI 2区</b>
   <br>
 
@@ -285,8 +285,8 @@ author_profile: true
   Xin Chen, Debiao He\*, **Cong Peng**, Min Luo\*, Xinyi Huang
   </span>
   <br>
-  _IEEE Transactions on Aerospace and Electronic Systems (**TAES**)_, early access.
-  <b class="pc-icon-box-a" style="float:right">SCI 2区</b>
+  _IEEE Transactions on Aerospace and Electronic Systems (**TAES**)_, 2024, early access.
+  <b class="pc-icon-box-b" style="float:right">SCI 2区</b>
   <br>
 
 1. <b class="pc-paper-title">
@@ -332,7 +332,7 @@ author_profile: true
   **Cong Peng**, Debiao He, Jianhua Chen, Neeraj Kumar, Muhammad Khurram Khan
   </span>
   <br>
-  _ACM Transactions on Internet Technology_, 2021, 21(3): 1-24.
+  _ACM Transactions on Internet Technology (**TOIT**)_, 2021, 21(3): 1-24.
   <b class="pc-icon-box-c" style="float:right">SCI 3区</b>
   <b class="pc-icon-box-b" style="float:right">CCF B</b>
   <br>
@@ -344,7 +344,7 @@ author_profile: true
   **Cong Peng**, Jianhua Chen, Pandi Vijayakumar, Neeraj Kumar, Debiao He
   </span>
   <br>
-  ACM Transactions on Internet Technology, 2021, 21(1): 1-23.
+  _ACM Transactions on Internet Technology (**TOIT**)_, 2021, 21(1): 1-23.
   <b class="pc-icon-box-c" style="float:right">SCI 3区</b>
   <b class="pc-icon-box-b" style="float:right">CCF B</b>
   <br>
@@ -523,7 +523,7 @@ author_profile: true
   基于SM2数字签名算法的可否认环签名
   </b><br>
   <span>
-  包子健, 何德彪, 彭聪, 罗敏, 黄欣沂
+  包子健, 何德彪, **彭聪**, 罗敏, 黄欣沂
   </span>
   <br>
   _密码学报_, 2023, 10(2): 264-275.
