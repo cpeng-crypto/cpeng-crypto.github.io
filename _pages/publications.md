@@ -130,7 +130,7 @@ author_profile: true
   <u>Hongyi Qiao</u>, **Cong Peng\***, Qi Feng, Min Luo\*, Debiao He
   </span>
   <br>
-  _IEEE Internet of Things Journal_, 2024, early access.
+  _IEEE Internet of Things Journal_, 2024, 11(10): 17975 - 17988.
   <b class="pc-icon-box-a" style="float:right">SCI 1区</b>
   <br>
 
