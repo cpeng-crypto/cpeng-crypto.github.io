@@ -14,7 +14,7 @@ author_profile: true
 ## Students Achievements
 
 - <i class="fa-sharp fa-regular fa-award" ></i>
-2023-10, “密码都不队”获得第八届全国密码技术竞赛**一等奖**  
+2023-10, “密码都不队”获得第八届全国密码技术竞赛**二等奖**  
 队员: 彭博, 赵路路, 胡秦豪  
 - <i class="fa-sharp fa-regular fa-award" ></i>
 2023-10, “取名困难队”获得第八届全国密码技术竞赛**二等奖**  
